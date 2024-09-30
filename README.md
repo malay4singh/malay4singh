@@ -19,7 +19,7 @@
 
 
 ### :man_technologist: About Me :
-I am a Full-Stack Web Developer
+I am a Full-Stack Web Developer, aspiring to become a DevOps Engineer
 - :telescope: I’m contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring the intricacies of Linux 💻 and Cloud Computing ☁️.
