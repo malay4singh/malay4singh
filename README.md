@@ -5,7 +5,7 @@
     <a href="https://www.malaysingh.com">
       <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio Badge" />
     </a>
-    <a href="https://www.linkedin.com/in/malay-singh-15b722274/">
+    <a href="https://www.linkedin.com/in/malay4singh">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a><br />
     <img src="https://komarev.com/ghpvc/?username=malay4singh&style=flat-square&color=blue" />
